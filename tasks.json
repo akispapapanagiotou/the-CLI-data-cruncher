@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Print Hello World in Python",
+    "priority": "Low",
+    "status": "Completed"
+  },
+  {
+    "title": "Fix a typo in a print message",
+    "priority": "High",
+    "status": "Pending"
+  },
+  {
+    "title": "Learn how to use variables",
+    "priority": "Medium",
+    "status": "Pending"
+  },
+  {
+    "title": "Create an account on GitHub",
+    "priority": "Medium",
+    "status": "Completed"
+  },
+  {
+    "title": "Read a short Python tutorial",
+    "priority": "Low",
+    "status": "Pending"
+  }
+]
